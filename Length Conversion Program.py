@@ -1,6 +1,3 @@
-## CST-16163 Intro to Computer Programming
-## By: Aaron Knowles
-
 ## A function to convert U.S. Customary System measurements to Metric measurements
 def conversion():
     result = 0
